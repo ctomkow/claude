@@ -10,7 +10,7 @@
 
     a. If something is new inside the codebase (architecture/feature), ensure you implement it manually first; don't rely on an agent to drive the direction (see 2b)
    
-    b. To automate something, it must first be done manually first; This applies to agent code generation as well
+    b. To automate something, it must first be done manually; This applies to agent code generation as well
    
 3. Don't be overly reliant on claude
 
