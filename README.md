@@ -14,7 +14,7 @@
    
 3. Don't be overly reliant on claude
 
-    a. Always write the first line of code(s) yourself; even if claude finishes the work, it provides critical guidance to the agent
+    a. Always write the first line(s) of code yourself; even if claude finishes the work, it provides critical guidance to the agent
 
     b. Your skill will degrade if you don't keep writing code (see 1a, 2a, 3a)
   
