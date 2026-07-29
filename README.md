@@ -20,3 +20,6 @@
   
     c. Aim to automate (with claude) the boring or tedious parts of coding, not the novel (to you) or creative parts (see artists)
 
+Also, fuck you Claude Code[^1]
+
+[^1]: It's far too easy to burn out or have Claude take over the enjoyable parts of software development.
