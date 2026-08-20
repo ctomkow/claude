@@ -5,14 +5,16 @@
     a. Use claude in tutor mode first; have constructive back and forth on the understanding and planning of the work
    
     b. If implementing with claude, explicitely instruct claude to implement only after discussing with claude in tutor mode
+
+    c. Ensure you slow down. Just because Claude can compress development from weeks to days, don't compress too much that you are not still doing sound software engineering work[^1]
    
-2. If implementing with claude, ensure the feature has existing example(s) in the codebase
+3. If implementing with claude, ensure the feature has existing example(s) in the codebase
 
     a. If something is new inside the codebase (architecture/feature), ensure you implement it manually first; don't rely on an agent to drive the direction (see 2b)
    
     b. To automate something, it must first be done manually; This applies to agent code generation as well
    
-3. Don't be overly reliant on claude
+4. Don't be overly reliant on claude
 
     a. Always write the first line(s) of code yourself; even if claude finishes the work, it provides critical guidance to the agent
 
