@@ -1,5 +1,11 @@
 ### The Zen of Claude Code
 
+0. Efficiency for efficiency sake
+   
+    a. It's ok to simply trad-code. Job satisfaction is more important than velocity alone.
+
+If LLM coding is used...
+
 1. Use the CLAUDE.md to set claude into default 'tutor mode'
    
     a. Use claude in tutor mode first; have constructive back and forth on the understanding and planning of the work
@@ -8,13 +14,13 @@
 
     c. Ensure you slow down. Just because Claude can compress development from weeks to days, don't compress too much that you are not still doing sound software engineering work[^1]
    
-3. If implementing with claude, ensure the feature has existing example(s) in the codebase
+2. If implementing with claude, ensure the feature has existing example(s) in the codebase
 
     a. If something is new inside the codebase (architecture/feature), ensure you implement it manually first; don't rely on an agent to drive the direction (see 2b)
    
     b. To automate something, it must first be done manually; This applies to agent code generation as well
    
-4. Don't be overly reliant on claude
+3. Don't be overly reliant on claude
 
     a. Always write the first line(s) of code yourself; even if claude finishes the work, it provides critical guidance to the agent
 
